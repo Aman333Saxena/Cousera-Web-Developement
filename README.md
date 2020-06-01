@@ -5,6 +5,10 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ## Assignments
 
+### Module 1
+* Deadline: May 11, 12:29 AM IST
+* [Attempt the only Quiz](https://www.coursera.org/learn/html-css-javascript-for-web-developers/exam/51rrK/module-1-quiz)
+
 ### Module 2
 * [Assignment description](./descriptions/assignment2/Assignment2.md)
 * Deadline: May 18, 12:29 AM IST
