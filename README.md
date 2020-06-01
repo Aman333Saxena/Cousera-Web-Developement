@@ -15,17 +15,17 @@ This repository contains my solutions to the assignments of the Coursera course
 * [Solution](https://aman333saxena.github.io/Cousera-Web-Developement/module2-solution/index.html)
 
 ### Module 3
-* [Assignment description](./descriptions/assignment3/Assignment3.md)
+* [Assignment description](./descriptions/assignment3/Assignment-3.md)
 * Deadline:  May 25, 12:29 AM IST
 * [Basic Solution (without most of the optional parts)](https://aman333saxena.github.io/Cousera-Web-Developement/module3-solution/index_basic.html)
 * [Full Solution (including all the optional parts)](https://aman333saxena.github.io/Cousera-Web-Developement/module3-solution/index.html)
 
 ### Module 4
-* [Assignment description](./descriptions/assignment4/Assignment4.md)
+* [Assignment description](./descriptions/assignment4/Assignment-4.md)
 * Deadline: June 1, 12:29 AM IST
 * [Solution](https://aman333saxena.github.io/Cousera-Web-Developement/module4-solution/)
 
 ### Module 5
-* [Assignment description](./descriptions/assignment5/Assignment5.md)
+* [Assignment description](./descriptions/assignment5/Assignment-5.md)
 * Deadline: June 8, 12:29 AM IST
 * [Solution](https://aman333saxena.github.io/Cousera-Web-Developement/module5-solution/)
